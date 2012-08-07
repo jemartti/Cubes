@@ -1,0 +1,57 @@
+sum is: /usr/bin/sum
+
+
+2012-01-31 19:25 Checksum for A2 for jemartti on gl24.student.cs  Page 1
+
+
+A2:
+total 524
+25483469 drwxrwx--- 8 jemartti cs488         4096 2012-01-31 19:25 ../
+43564494 drwxrwx--- 4 jemartti cs488         4096 2012-01-31 19:25 ./
+28261492 -rw-r----- 1 jemartti jemarttinen  31735 2012-01-31 19:20 screenshot01.png
+28261491 -rw-r-x--- 1 jemartti jemarttinen    378 2012-01-31 19:18 README*
+43564495 drwxrwx--- 2 jemartti cs488         4096 2012-01-31 19:17 src/
+43564483 -rwxr-x--x 1 jemartti jemarttinen 473688 2012-01-31 19:16 a2*
+24947479 drwxrwx--- 2 jemartti cs488         4096 2012-01-08 20:36 data/
+
+A2/src:
+total 80
+43564494 drwxrwx--- 4 jemartti cs488        4096 2012-01-31 19:25 ../
+43564495 drwxrwx--- 2 jemartti cs488        4096 2012-01-31 19:17 ./
+34438438 -rw-r--r-- 1 jemartti jemarttinen 16896 2012-01-31 19:13 viewer.cpp
+34438440 -rw-r--r-- 1 jemartti jemarttinen  3691 2012-01-31 19:01 viewer.hpp
+43564492 -rw-r--r-- 1 jemartti jemarttinen  3176 2012-01-31 19:01 appwindow.cpp
+43564498 -rw-r--r-- 1 jemartti jemarttinen   695 2012-01-31 18:46 appwindow.hpp
+43564484 -rw-r--r-- 1 jemartti jemarttinen  1988 2012-01-31 17:15 a2.cpp
+43564486 -rw-r--r-- 1 jemartti jemarttinen   539 2012-01-31 17:14 a2.hpp
+34438434 -rw-r--r-- 1 jemartti jemarttinen   317 2012-01-23 16:50 main.cpp
+34438430 -rw-r--r-- 1 jemartti jemarttinen  1486 2012-01-22 21:40 draw.cpp
+34438437 -rw-r--r-- 1 jemartti jemarttinen   673 2012-01-22 21:40 Makefile
+43564488 -rw-r--r-- 1 jemartti jemarttinen  3308 2012-01-22 21:40 algebra.cpp
+34438432 -rw-r--r-- 1 jemartti jemarttinen  1028 2012-01-22 21:40 draw.hpp
+43564490 -rw-r--r-- 1 jemartti jemarttinen  9474 2012-01-22 21:40 algebra.hpp
+
+A2/data:
+total 8
+43564494 drwxrwx--- 4 jemartti cs488 4096 2012-01-31 19:25 ../
+24947479 drwxrwx--- 2 jemartti cs488 4096 2012-01-08 20:36 ./
+
+A2                                      
+A2/a2                                   19711   463
+A2/data                                 
+A2/README                               36377     1
+A2/screenshot01.png                     16442    31
+A2/src                                  
+A2/src/a2.cpp                           15588     2
+A2/src/a2.hpp                           47689     1
+A2/src/algebra.cpp                      00294     4
+A2/src/algebra.hpp                      65153    10
+A2/src/appwindow.cpp                    32067     4
+A2/src/appwindow.hpp                    18242     1
+A2/src/draw.cpp                         56818     2
+A2/src/draw.hpp                         53140     2
+A2/src/main.cpp                         51599     1
+A2/src/Makefile                         11584     1
+A2/src/viewer.cpp                       03047    17
+A2/src/viewer.hpp                       43564     4
+
